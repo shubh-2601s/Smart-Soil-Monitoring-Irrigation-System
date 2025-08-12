@@ -1,0 +1,10 @@
+    String payload = "{";
+    payload += "\"nitrogen\":" + String(N) + ",";
+    payload += "\"phosphorus\":" + String(P) + ",";
+    payload += "\"potassium\":" + String(K) + ",";
+    payload += "\"ph\":" + String(PH / 100.0) + ",";
+    payload += "\"ec\":" + String(EC) + ",";
+    payload += "\"humidity\":" + String(humidityPercent) + ",";
+    payload += "\"temperature\":" + String(TMP / 10.0) + ",";
+    payload += "\"relay\":\"" + String(relayState ? "ON" : "OFF") + "\"";  // Changed to match server expectation
+    payload += "}";
