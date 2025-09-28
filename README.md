@@ -293,28 +293,10 @@ We welcome contributions! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Authors & Acknowledgments
-
-- **Project Lead**: Your Name
-- **Hardware Design**: Your Team
-- **Software Development**: Your Team
-- **Special Thanks**: Agricultural experts and IoT community
 
 ## 📞 Support & Contact
 
-- **Issues**: [GitHub Issues](https://github.com/your-username/smart-soil-monitoring/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/smart-soil-monitoring/discussions)
-- **Email**: your-email@example.com
-
-## 🗺️ Roadmap
-
-### Upcoming Features
-- [ ] **Machine Learning**: Predictive analytics for crop yields
-- [ ] **Mobile App**: Native iOS/Android applications
-- [ ] **Multi-sensor Support**: Additional environmental sensors
-- [ ] **Cloud Integration**: AWS/Azure IoT connectivity
-- [ ] **Alert System**: SMS/Email notifications
-- [ ] **Data Export**: CSV/Excel export functionality
+- **Email**: 10221shubham.s@gmail.com
 
 ### Version History
 - **v1.0**: Initial release with basic monitoring
@@ -323,11 +305,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **v1.3**: Enhanced dashboard with analytics
 - **v2.0**: MySQL integration and improved UI
 
-## 🏆 Awards & Recognition
-
-- IoT Innovation Award 2024
-- Sustainable Agriculture Technology Prize
-- Open Source Agricultural Project of the Year
 
 ---
 
@@ -337,6 +314,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Made with ❤️ for sustainable agriculture
 
-[🌐 Website](https://your-website.com) • [📚 Documentation](https://docs.your-website.com) • [💬 Community](https://community.your-website.com)
 
 </div>
